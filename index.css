@@ -3,12 +3,12 @@ body {
  color: #FFFFFF;
 }
 h1 {
- color: #FFFFFF;
+ color: #000000;
  text-align: center;
-
+ border: 3px groove #FF0000;
 }
 h2 {
- color: #FFFFFF;
+ color: #000000;
  text-align: center;
  border: 3px groove #FFFF33;
 }
