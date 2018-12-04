@@ -25,3 +25,11 @@ ul {
  overflow: hidden;
  background-color: #333333;
 }
+
+
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
