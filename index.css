@@ -1,6 +1,14 @@
 body {
  background-color: #ffdab9;
- color: #FFFFFF;
+ color: #000000;
+}
+
+h1 {
+ text-align: center;
+}
+
+h2 {
+ text-align: center;
 }
 
 ul {
@@ -9,6 +17,7 @@ ul {
  padding: 0;
  overflow: hidden;
  background-color: #333333;
+ font-size: large;
 }
 
 
