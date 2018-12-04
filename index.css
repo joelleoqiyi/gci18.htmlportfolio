@@ -13,7 +13,24 @@ h2 {
  color: #000000;
 }
 
+h3 {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #e34234;
+ text-align: center;
+ font-size: large;
+}
 
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #e34234;
+ font-size: large;
+}
 
 
 .center {
@@ -25,6 +42,6 @@ h2 {
 }
 
 a {
- font-size: 200px;
+ font-size: 100px;
  text-align: center;
 }
