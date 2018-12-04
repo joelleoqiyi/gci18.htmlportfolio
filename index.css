@@ -5,10 +5,12 @@ body {
 
 h1 {
  text-align: center;
+ color: #000000;
 }
 
 h2 {
  text-align: center;
+ color: #000000;
 }
 
 h3 {
@@ -16,7 +18,7 @@ h3 {
  margin: 0;
  padding: 0;
  overflow: hidden;
- background-color: #333333;
+ background-color: #FFA07A;
  font-size: large;
 }
 
