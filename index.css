@@ -2,21 +2,6 @@ body {
  background-color: #ffdab9;
  color: #FFFFFF;
 }
-h1 {
- color: #000000;
- text-align: center;
- border: 3px groove #FF0000;
-}
-h2 {
- color: #000000;
- text-align: center;
- border: 3px groove #FFFF33;
-}
-
-h3 {
- color: #FFFFFF;
- text-align: center;
-}
 
 ul {
  list-style-type: none;
